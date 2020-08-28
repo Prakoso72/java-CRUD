@@ -1,0 +1,10 @@
+NeildeGrasseTyson_2017_1,2017,Neil deGrase Tyson,Gramedia,Astrofisika Untuk Orang Sibuk
+BetrandRussel_1946_1,1946,Betrand Russel,UNWIN and George Allen,History of Western Philosophy
+Purcell_2009_1,2009,Purcell,Wiley,Calculus
+FiersaBesari_2012_1,2012,Fiersa Besari,Media Kita,Jejak Langkah
+CarlSagan_2018_1,2018,Carl Sagan,Graamedia,The Demon-Haunted World
+RinaldiMunir_2010_1,2010,Rinaldi Munir,Informatika Bandung,Matematika Diskrit
+PramoedyaAnantaToer_2005_1,2005,Pramoedya Ananta Toer,Lentera Dipantara,Bumi Manusia
+PramoedyaAnantaToer_2006_1,2006,Pramoedya Ananta Toer,Lentera Dipantara,Anak Semua Bangsa
+PramoedyaAnantaToer_2006_2,2006,Pramoedya Ananta Toer,Lentera Dipantara,Jejak Langkah
+PramoedyaAnantaToer_2006_3,2006,Pramoedya Ananta Toer,Lentera Dipantara,Rumah Kaca
